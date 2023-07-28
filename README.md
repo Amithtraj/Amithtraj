@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amithtraj
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on Game development
 - 📫  @amith.t.raj - Instagram @9496668173 - Whatsapp 
 
 <!---
