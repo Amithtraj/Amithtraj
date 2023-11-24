@@ -11,7 +11,7 @@
       - Microsoft SQL Server (MSSQL)
       - PostgreSQL
       - MySQL
-        
+   - I also am good with python autmoation and webscraping with tools like selenium and also working on custom GPTs.         
 
 ⚙️ I am also well-versed in working with jQuery, a powerful JavaScript library that enhances interactivity and user experience.
 
