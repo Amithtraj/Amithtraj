@@ -1,4 +1,4 @@
-# Amith Y Pranoy | Full-Stack Developer
+# Amith T Raj | Full-Stack Developer
 
 ## 🚀 About Me
 Experienced **Full-Stack Developer** specializing in **Python (Django, Flask)** and **JavaScript (React, Angular)**, with expertise in **web scraping, automation, and backend architecture**. Passionate about scalable, high-performance applications, data-driven solutions, and automation.
