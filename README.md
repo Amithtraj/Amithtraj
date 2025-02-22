@@ -1,22 +1,72 @@
-👋 Hello, I'm Amith, a passionate Fullstack Developer with a Bachelor's degree in Computer Science (B.Tech). 🚀
+# Amith Y Pranoy | Full-Stack Developer
 
-🏢 Currently, I proudly serve as a Lead Python Developer at Synctric, where I lead a talented team in creating cutting-edge solutions and driving innovation in the tech industry.
+## 🚀 About Me
+Experienced **Full-Stack Developer** specializing in **Python (Django, Flask)** and **JavaScript (React, Angular)**, with expertise in **web scraping, automation, and backend architecture**. Passionate about scalable, high-performance applications, data-driven solutions, and automation.
 
-💼 Additionally, I'm focused on freelance projects, working on diverse web and software development assignments. I excel in crafting robust, scalable, and user-friendly applications, leveraging a wide array of technologies.
+## 🛠️ Tech Stack
 
-💻 My technical expertise spans a broad spectrum of technologies, including:
-   - Front-end development with HTML, CSS, and JavaScript, where I specialize in building interactive user interfaces using frameworks like React, Angular, and Vue.js.
-   - Back-end development with Node.js, Java, Django, Springboot which enables me to create efficient and performant server-side applications.
-   - Database management with a variety of database systems, including:
-      - Microsoft SQL Server (MSSQL)
-      - PostgreSQL
-      - MySQL
-   - I also am good with python autmoation and webscraping with tools like selenium and also working on custom GPTs.         
+### **Languages**
+- Python, JavaScript, TypeScript, Java, C#
+- HTML, CSS, SQL
 
-⚙️ I am also well-versed in working with jQuery, a powerful JavaScript library that enhances interactivity and user experience.
+### **Frameworks & Libraries**
+- Django, Flask, FastAPI
+- React, Angular, Next.js
+- .NET Core, ASP.NET MVC
 
-🌱 As a perpetual learner, I'm always eager to explore new technologies and stay up-to-date with the latest trends in software development.
+### **Databases**
+- PostgreSQL, MySQL, MongoDB
 
-📈 If you're interested in collaborating on exciting projects or seeking technical guidance, feel free to reach out! I'm open to new opportunities and enjoy sharing knowledge with fellow developers.
+### **DevOps & Cloud**
+- Docker, Kubernetes
+- Google Cloud Compute Engine
+- AWS (EC2, S3, Lambda)
 
-Let's connect and build something amazing together! 🤝
+### **Web Scraping & Automation**
+- BeautifulSoup, Scrapy, Selenium, Puppeteer, Playwright
+- Rotating Proxies, Headless Browsers
+- Browser Automation & Data Extraction
+
+### **Other Tools & Technologies**
+- Redis, Celery, RabbitMQ
+- GraphQL, RESTful APIs
+- Git, CI/CD (GitHub Actions, Jenkins)
+
+---
+
+## 💻 Professional Experience
+
+### 🔹 **Syncrtic Technologies Pvt Ltd | Python Full-Stack Developer**  
+_Aug 2023 – Present_  
+- Designed and built **scalable Django-based web applications** with RESTful API architecture.
+- Implemented advanced **web scraping and data extraction pipelines** using Scrapy, Selenium, and BeautifulSoup.
+- Developed and optimized **real-time dashboards** for data visualization.
+- Integrated third-party authentication (JWT, OAuth) for secure access control.
+
+### 🔹 **Ametzo Technologies | Full-Stack Developer**  
+_Jul 2023 – Aug 2023_  
+- Developed **interactive and responsive web applications** using Django and React.
+- Created **REST APIs with Django and Flask**, integrating them with front-end UIs.
+- Optimized MySQL queries and database structures for better performance.
+
+### 🔹 **TechNeurons | Full-Stack Developer**  
+_Dec 2022 – Jul 2023_  
+- Built and maintained **full-stack applications** using .NET Core and Angular.
+- Developed **microservices-based architectures** for modular applications.
+- Implemented **unit testing and CI/CD pipelines** for deployment automation.
+
+
+
+## 🔗 Connect with Me
+- **GitHub:** [github.com/yourgithubusername](https://github.com/Amithtraj)
+- **LinkedIn:** [linkedin.com/in/amithypranoy](https://www.linkedin.com/in/amiththyagaraj)
+
+---
+
+## 📌 GitHub Stats
+![Amith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amithtraj&show_icons=true&theme=radical)
+
+
+---
+
+⚡ **Tech Enthusiast | Open Source Contributor | Lifelong Learner**
