@@ -58,7 +58,7 @@ _Dec 2022 – Jul 2023_
 
 
 ## 🔗 Connect with Me
-- **GitHub:** [github.com/yourgithubusername](https://github.com/Amithtraj)
+- **GitHub:** [github.com/Amithtraj](https://github.com/Amithtraj)
 - **LinkedIn:** [linkedin.com/in/amithypranoy](https://www.linkedin.com/in/amiththyagaraj)
 
 ---
